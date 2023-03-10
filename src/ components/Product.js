@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Product({ label, img, title, price }) {
+function Product({label, img, title, price}) {
     return (
         <article>
             <span>{label}</span>
